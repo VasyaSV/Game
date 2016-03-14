@@ -1,0 +1,150 @@
+c:\Temp\Fortune\Fortune\bin\Fortune.dll
+c:\Temp\Fortune\Fortune\bin\Fortune.pdb
+c:\Temp\Fortune\Fortune\bin\Antlr3.Runtime.dll
+c:\Temp\Fortune\Fortune\bin\AspNet.ScriptManager.jQuery.dll
+c:\Temp\Fortune\Fortune\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.AspNet.dll
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.Core.dll
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.OAuth.dll
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.OpenId.dll
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\Temp\Fortune\Fortune\bin\EntityFramework.dll
+c:\Temp\Fortune\Fortune\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\Temp\Fortune\Fortune\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\Temp\Fortune\Fortune\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\Temp\Fortune\Fortune\bin\Microsoft.ScriptManager.WebForms.dll
+c:\Temp\Fortune\Fortune\bin\Microsoft.Web.Infrastructure.dll
+c:\Temp\Fortune\Fortune\bin\System.Web.Optimization.dll
+c:\Temp\Fortune\Fortune\bin\System.Web.Providers.dll
+c:\Temp\Fortune\Fortune\bin\WebGrease.dll
+c:\Temp\Fortune\Fortune\bin\EntityFramework.xml
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.Core.xml
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.OAuth.xml
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.OpenId.xml
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\Temp\Fortune\Fortune\bin\DotNetOpenAuth.AspNet.xml
+c:\Temp\Fortune\Fortune\obj\Debug\Fortune.csprojResolveAssemblyReference.cache
+c:\Temp\Fortune\Fortune\obj\Debug\Fortune.dll
+c:\Temp\Fortune\Fortune\obj\Debug\Fortune.pdb
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\Fortune.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\Fortune.pdb
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\Antlr3.Runtime.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.Core.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\EntityFramework.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\System.Web.Optimization.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\System.Web.Providers.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\WebGrease.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\EntityFramework.xml
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.Core.xml
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\obj\Debug\Fortune.dll
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\obj\Debug\Fortune.pdb
+C:\Users\1\YandexDisk\Fortune v7_0\Fortune\obj\Debug\Fortune.csprojResolveAssemblyReference.cache
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\obj\Debug\Fortune.csprojResolveAssemblyReference.cache
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\obj\Debug\Fortune.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\Fortune.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\Fortune.pdb
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\Antlr3.Runtime.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.Core.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\EntityFramework.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\System.Web.Optimization.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\System.Web.Providers.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\WebGrease.dll
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\EntityFramework.xml
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.Core.xml
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\1\YandexDisk\Fortune v7_0 - копия\Fortune\obj\Debug\Fortune.pdb
+C:\Temp\Fortune v8_0\Fortune\bin\Fortune.dll
+C:\Temp\Fortune v8_0\Fortune\bin\Fortune.pdb
+C:\Temp\Fortune v8_0\Fortune\bin\Antlr3.Runtime.dll
+C:\Temp\Fortune v8_0\Fortune\bin\AspNet.ScriptManager.jQuery.dll
+C:\Temp\Fortune v8_0\Fortune\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.AspNet.dll
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.Core.dll
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OAuth.dll
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OpenId.dll
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Temp\Fortune v8_0\Fortune\bin\EntityFramework.dll
+C:\Temp\Fortune v8_0\Fortune\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Temp\Fortune v8_0\Fortune\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Temp\Fortune v8_0\Fortune\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Temp\Fortune v8_0\Fortune\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Temp\Fortune v8_0\Fortune\bin\Microsoft.Web.Infrastructure.dll
+C:\Temp\Fortune v8_0\Fortune\bin\System.Web.Optimization.dll
+C:\Temp\Fortune v8_0\Fortune\bin\System.Web.Providers.dll
+C:\Temp\Fortune v8_0\Fortune\bin\WebGrease.dll
+C:\Temp\Fortune v8_0\Fortune\bin\EntityFramework.xml
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.Core.xml
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OAuth.xml
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OpenId.xml
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Temp\Fortune v8_0\Fortune\bin\DotNetOpenAuth.AspNet.xml
+C:\Temp\Fortune v8_0\Fortune\obj\Debug\Fortune.csprojResolveAssemblyReference.cache
+C:\Temp\Fortune v8_0\Fortune\obj\Debug\Fortune.dll
+C:\Temp\Fortune v8_0\Fortune\obj\Debug\Fortune.pdb
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\Fortune.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\Fortune.pdb
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\Antlr3.Runtime.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.Core.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\EntityFramework.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\System.Web.Optimization.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\System.Web.Providers.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\WebGrease.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\EntityFramework.xml
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.Core.xml
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\obj\Debug\Fortune.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\obj\Debug\Fortune.dll
+C:\Users\Администратор\Desktop\Fortune v8_0\Fortune\obj\Debug\Fortune.pdb
