@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="BanListLINQ">
+  <DataContextMoniker Name="/BanListLINQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6221e0cc-b973-4a2c-95f4-723d18048a9a" absoluteBounds="2, 1.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BanListLINQDataContext/BanList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0e0369cf-b27b-4efc-bd3e-6f112d55a4b9" absoluteBounds="2.0149999999999997, 1.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

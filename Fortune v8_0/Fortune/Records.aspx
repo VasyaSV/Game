@@ -11,13 +11,14 @@
     <div>
         <p>Таблица успешных выигрышей:</p> 
     </div>
-        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:fbaseConnectionString %>" SelectCommand="SELECT [name], [money] FROM [Table]">
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:aspnet_Fortune_20150327190418ConnectionString %>" SelectCommand="SELECT [name], [score], [date] FROM [Records] ORDER BY [score] DESC, [date] DESC">
         </asp:SqlDataSource>
-        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" AllowPaging="True" CellPadding="4" ForeColor="#333333" GridLines="None">
+        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="SqlDataSource1" AllowPaging="True" CellPadding="4" ForeColor="#333333" GridLines="None" AllowSorting="True">
             <AlternatingRowStyle BackColor="White" />
             <Columns>
+                <asp:BoundField DataField="score" HeaderText="score" SortExpression="score" />
                 <asp:BoundField DataField="name" HeaderText="name" SortExpression="name" />
-                <asp:BoundField DataField="money" HeaderText="money" SortExpression="money" />
+                <asp:BoundField DataField="date" HeaderText="date" SortExpression="date" />
             </Columns>
             <FooterStyle BackColor="#990000" Font-Bold="True" ForeColor="White" />
             <HeaderStyle BackColor="#990000" Font-Bold="True" ForeColor="White" />

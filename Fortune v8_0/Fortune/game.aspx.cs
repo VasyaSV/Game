@@ -73,6 +73,11 @@ namespace Fortune
 
         protected void Button_newGame_Click(object sender, EventArgs e)
         {
+            clearAll();
+        }
+
+        protected void clearAll()
+        {
             first_point.Text = "-";
             second_point.Text = "-";
             third_point.Text = "-";
@@ -82,7 +87,6 @@ namespace Fortune
             Button_GO.Text = "- - -";
             spisok_game_rate.Enabled = true;
             spisok_game_rate.SelectedIndex = 0;
-            
         }
 
         protected void spisok_rate_SelectedIndexChanged(object sender, EventArgs e)
@@ -121,24 +125,27 @@ namespace Fortune
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Button_GO.Text = "- - -";
-            Button_GO.Enabled = false;
-            message.Text = "О Б Н А Л И Ч Е Н О";
-            using (DataClasses1DataContext bd = new DataClasses1DataContext())
+            using (RecordLinqDataContext bd = new RecordLinqDataContext())
             {
 
                 string player_name = Context.User.Identity.Name;
                 int player_money = Convert.ToInt32(rezult_point.Text);
+                DateTime cur_date = System.DateTime.Now;
 
-                Table new_win = new Table()
+                Records new_win = new Records()
                 {
                     name = player_name,
-                    money = player_money,
+                    score = player_money,
+                    date = cur_date,
                 };
 
-                bd.Table.InsertOnSubmit(new_win);
+                bd.Records.InsertOnSubmit(new_win);
                 bd.SubmitChanges();
             }
+            clearAll();
+            Button_GO.Enabled = false;
+            Button_Obnal.Enabled = false;
+            message.Text = "О Б Н А Л И Ч Е Н О";
 
         }
 
