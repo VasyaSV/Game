@@ -11,13 +11,45 @@ namespace Fortune
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+                
         }
 
         protected void go_to_play_Click(object sender, EventArgs e)
         {
-            Response.Redirect("game.aspx");
+            if (userIsAdmin())
+                Response.Redirect("BanList.aspx");
+            else
+            {
+                if (!Buned())
+                    Response.Redirect("game.aspx");
+                else
+                    Response.Write("<script>window.alert('kВы забанены');</script>");
+            }
+
+
         }
+        
+        protected bool Buned()
+        {
+            string name = Context.User.Identity.Name;
+            var bd = new BanListLINQDataContext();
+            var bd_item = (from p in bd.BanList
+                           where p.name == name
+                           select new { name = p.name }
+                          ).SingleOrDefault();
+            if (bd_item == null)
+                return false;
+            return true;
+        }
+
+        protected bool userIsAdmin()
+        {
+            string player_name = Context.User.Identity.Name;
+            if (player_name == "admin")
+                return true;
+            return false;
+        }
+
         /*
         protected void Button_GO_Click(object sender, EventArgs e)
         {

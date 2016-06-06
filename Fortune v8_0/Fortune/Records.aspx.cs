@@ -7,11 +7,16 @@ using System.Web.UI.WebControls;
 
 namespace Fortune
 {
-    public partial class Records : System.Web.UI.Page
+    public partial class Records1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("game.aspx");
         }
     }
 }

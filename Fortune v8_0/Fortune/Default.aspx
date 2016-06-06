@@ -26,7 +26,7 @@
     <asp:LoginView ID="LoginView1" runat="server">
         <AnonymousTemplate></AnonymousTemplate>
         <LoggedInTemplate>
-            <asp:Button ID="go_to_play" runat="server" Text="Играть >>" OnClick="go_to_play_Click" />   
+            <asp:Button ID="go_to_play" runat="server" Text=">>" OnClick="go_to_play_Click" />   
         </LoggedInTemplate>
     </asp:LoginView>
 </asp:Content>
